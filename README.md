@@ -30,9 +30,8 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 ___
 
-Info on the tutorial:
-
+Tutorial's author info: 
+<a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"   src="https://img.shields.io/badge/-Subscribe-red?logo=youtube&logoColor=white"/></a>
 <a href="https://github.com/syednomishah"><img src="https://img.shields.io/badge/Follow%20the%20author-%23121011.svg?logo=github&logoColor=white"></a>
-
-<a href="https://www.buymeacoffee.com/syednoman">☕ Buy him a coffee</a>
+<a href="https://www.buymeacoffee.com/syednoman"><img src="https://img.shields.io/badge/Buy%20Him%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black"></a>
 
